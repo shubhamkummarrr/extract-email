@@ -5,10 +5,10 @@ maintenance activities to be carried out on a regular basis to
 ensure security, high availability, technological upgrades, 
 application security audit, GIGW compliances and performance 
 optimization.B. Tech/MCA 7+ years
-ii 2a)    The development, deployment, application security audit, 
+ii 2a    The development, deployment, application security audit, 
 GIGW compliances and enhancement of various web portals 
 and website of the department. neha@hackvedasolutions.com, neha1234@gmail.com
-b) The designing of web pages, handouts, posters and cover 
+b The designing of web pages, handouts, posters and cover 
 pages of books.B. Tech/MCA 5+ years
 iii 1Management of Cloud VMs, Server management, creation of 
 new servers, OS upgradation, Vulnerability Assessment and 
