@@ -1,0 +1,45 @@
+name: Tender AI Extractor
+
+on:
+  push:
+    paths:
+      - "**/*.pdf.txt"      # any pdf.txt file in any folder
+      - "extractor/**"      # if your extractor changes
+  workflow_dispatch:         # manual run option
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.11"
+
+    - name: Install requirements
+      run: |
+        python -m pip install --upgrade pip
+        pip install spacy
+        python -m spacy download en_core_web_sm
+
+    - name: Run extractor script
+      run: |
+        python extractor.py
+
+    - name: Commit updated JSON to repo
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+        git add extracted_contacts.json
+        git commit -m "Auto-update extracted contacts [skip ci]" || echo "No changes to commit"
+
+    - name: Push changes
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
