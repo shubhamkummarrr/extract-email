@@ -1,0 +1,68 @@
+S. No. No. of resourcesScope of Work Qualifications Experience
+i 1The development, deployment and enhancement of various 
+web portals and website of the department. It also includes 
+maintenance activities to be carried out on a regular basis to 
+ensure security, high availability, technological upgrades, 
+application security audit, GIGW compliances and performance 
+optimization.B. Tech/MCA 7+ years
+ii 2a)    The development, deployment, application security audit, 
+GIGW compliances and enhancement of various web portals 
+and website of the department.
+b) The designing of web pages, handouts, posters and cover 
+pages of books.B. Tech/MCA 5+ years
+iii 1Management of Cloud VMs, Server management, creation of 
+new servers, OS upgradation, Vulnerability Assessment and 
+mitigationB. Tech/MCA 5+ years
+iv 2To provide technical support for smooth conduction of VC 
+sessions and hands-on support for e-Office operations, in-house 
+training on e-office, Reports generation, coordinate with 
+backend teams of Email, VPN, SPARROW etc.Any Graduate 5+ years with 
+technical 
+knowledge of 
+handling the VC 
+Studios/Managing 
+eOffice operationsScope of Work
+S. 
+No.Parameter Name Marking Criteria Max 
+MarksCutoff 
+Marks Qualification Methodology 
+DocumentDocument 
+Required
+1 Annual Average Turnover of 
+last 3 Fin. Years (2022-23 to 
+2024-25)(i) Rs 80 lakh to 5 Cr - 10 Marks 
+(ii) Above Rs 5 Cr to 8 Cr - 15 Marks 
+(iii) Above Rs 8 Cr - 20 Marks20 10 CA certificate & balance 
+sheetyes
+2 Experience of similar nature 
+of work {each work order of 
+value Rupees 50 lakhs or 
+more during the last 3 
+Financial Years (2022-23 to 
+2024-25)}(i) 1-3 Work orders- 10 marks
+(ii) 4-6 Work orders -15 marks 
+(iii) more than 6 Work orders -20 Marks20 10 Work order copy along with 
+completion certificate yes
+3 Total no. of IT professionals 
+on bidder's roll in India(i)  50 to 100 No.s- 10 marks                                                                                       
+(ii) 101 to 200 No.s- 15 Marks
+(iii) 201 and above -  20 Marks  20 10 HR undertaking or CA 
+Certificate or any other valid 
+document that can establish 
+the IT professionals' numberyes
+4 Technical Presentation of 
+company (i) Understanding of scope of work- 10 marks
+(ii) Profile and track record of company in terms of 
+credentials and existing client base- 10 marks
+(iii) Approach & Methodology - 10 marks
+(iv) Implementation plan & team deployment- 10 
+marks 40 20 Technical proposal in front of 
+Technical Evaluation 
+Committee via 
+VideoConferencing. Date of 
+presentation to be intimated 
+later.yesTechnical Evaluation Criteria
+Note: (i) Total cutoff marks - 70.
+(ii) Bidders not securing individual cutoff marks in each of the Parameters at S. No. 1 to 3 will be rejected and will not be called for Technical presentation. 
+(iii)  For firms claiming MSME/Start-up exemptions, minimum cutoff marks will be given for Sl. No. 1 and 2 if these firms fall short of marking criteria for Sl. 
+No. 1 and 2.
